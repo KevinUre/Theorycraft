@@ -1,0 +1,21 @@
+﻿add:
+  meta:
+    classes:
+      warlock:
+        level: 1
+  proficiencies:
+    skills:
+      - Arcana
+      - Intimidation
+    gear:
+      - Simple Weapons
+      - Light Armor
+  class:
+    warlock:
+      invocations:
+        - Pact of the Blade
+  spells:
+    - Booming Blade
+    - Eldritch Blast
+    - Hex
+    - Hellish Rebuke

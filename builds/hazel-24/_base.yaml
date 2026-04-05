@@ -1,0 +1,29 @@
+meta:
+  name: Hazel Coldsworn
+  race: Human 
+  background: Wayfarer
+  languages:
+    - Common
+abilities:
+  strength: 8
+  dexterity: 14
+  constitution: 14
+  intelligence: 12
+  wisdom: 10
+  charisma: 17
+proficiencies: 
+  tools:
+    - Thieves' Tools
+  skills:
+    - Insight
+    - Stealth
+    - Persuasion
+  gear:
+    - Simple Weapons
+    - Light Armor
+    - Shields
+race:
+  - Resourceful
+feats:
+  - Lucky
+  - Tough

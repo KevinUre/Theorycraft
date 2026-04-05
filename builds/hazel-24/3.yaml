@@ -1,0 +1,24 @@
+﻿add:
+  meta:
+    classes:
+      warlock:
+        level: 1
+        subclass: Hexblade
+  proficiencies:
+    gear:
+      - Shields
+      - Marital Weapons
+      - Medium Armor
+  spells:
+    - Shield
+    - Wrathful Smite
+    - Misty Step
+    - Hold Person
+  class:
+    warlock: 
+      features:
+        - Hexblade's Curse
+        - Hex Warrior
+remove:
+  spells:
+    - Arms of Hadar

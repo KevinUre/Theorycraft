@@ -1,0 +1,28 @@
+﻿meta:
+  name: unnamed
+  race: Goliath
+  background: Scribe
+  languages:
+    - Common
+abilities:
+  strength: 8
+  dexterity: 14
+  constitution: 14 
+  intelligence: 12
+  wisdom: 17
+  charisma: 10
+proficiencies: 
+  tools:
+    - Calligrapher's Supplies
+  skills:
+    - Investigation
+    - Perception
+    - Nature
+    - Survival
+    - Stealth
+race:
+  - Giant Ancestry (Cloud)
+  - Large Form
+  - Powerful Build
+feats:
+  - Skilled

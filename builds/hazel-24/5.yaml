@@ -1,0 +1,18 @@
+﻿add:
+  meta:
+    classes:
+      warlock:
+        level: 1
+  spells:
+    - Blur
+    - Branding Smite
+    - Counterspell
+    - Fly
+  class:
+    warlock:
+      invocations:
+        - Thirsting Blade
+        - Fiendish Vigor
+remove:
+  spells:
+    - Mirror Image

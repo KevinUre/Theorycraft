@@ -1,0 +1,15 @@
+﻿add:
+  meta:
+    classes:
+      druid:
+        level: 1
+        subclass: Circle of Spores
+  class:
+    druid: 
+      features:
+        - Halo of Spores
+        - Symbiotic Entity
+  spells:
+    - Blindness/Deafness
+    - Gentle Repose
+    - Chill Touch

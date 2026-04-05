@@ -1,0 +1,14 @@
+﻿add:
+  meta:
+    classes:
+      druid:
+        level: 1
+  spells:
+    - Find Familiar
+  class:
+    druid:
+      wild-shape:
+        - Rat
+        - Spider
+        - Panther
+        - Venomous Snake

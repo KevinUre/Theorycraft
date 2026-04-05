@@ -1,0 +1,16 @@
+﻿add:
+  meta:
+    classes:
+      druid:
+        level: 1
+  abilities:
+    wisdom: 1
+  feats:
+    - War Caster
+  spells:
+    - Poison Spray
+  class:
+    druid:
+      wild-shape:
+        - Black Bear
+        - Warhorse

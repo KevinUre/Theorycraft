@@ -1,0 +1,11 @@
+﻿add:
+  meta:
+    classes:
+      warlock:
+        level: 1
+  class:
+    warlock: 
+      features:
+        - Accursed Specter
+  spells:
+    - Armor of Agathys 

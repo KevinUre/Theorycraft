@@ -1,0 +1,24 @@
+﻿add:
+  meta:
+    classes:
+      druid:
+        level: 1
+    languages:
+      - Drudic
+  proficiencies:
+    skills:
+      - Arcana
+      - Insight
+    gear:
+      - Simple Weapons
+      - Light Armor
+      - Shields
+      - Marital Weapons
+      - Medium Armor
+  spells:
+    - Speak with Animals
+    - Guidance
+    - Shillelagh
+  class:
+    druid: 
+      - Primal Order (Warden)
