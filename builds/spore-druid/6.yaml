@@ -1,0 +1,9 @@
+add:
+  meta:
+    classes:
+      druid:
+        level: 1
+  class:
+    druid: 
+      features:
+        - Fungal Infestation

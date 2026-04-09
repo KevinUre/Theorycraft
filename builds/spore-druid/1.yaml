@@ -21,4 +21,5 @@
     - Shillelagh
   class:
     druid: 
-      - Primal Order (Warden)
+      features:
+        - Primal Order (Warden)

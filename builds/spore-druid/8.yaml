@@ -1,0 +1,12 @@
+add:
+  meta:
+    classes:
+      druid:
+        level: 1
+  abilities:
+    wisdom: 2
+  class:
+    druid:
+      wild-shape:
+        - Lion
+        - Blood Hawk
