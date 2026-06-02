@@ -1,0 +1,25 @@
+meta:
+  name: Edrick
+  race: Human 
+  background: Soldier
+  languages:
+    - Common
+abilities:
+  strength: 14
+  dexterity: 14
+  constitution: 14
+  intelligence: 15
+  wisdom: 10
+  charisma: 8
+proficiencies: 
+  tools:
+    - Dice
+  skills:
+    - Athletics
+    - Intimidation
+    - Insight
+race:
+  - Resourceful
+feats:
+  - Savage Attacker
+  - Tough

@@ -1,0 +1,9 @@
+add:
+  meta:
+    classes:
+      artificer:
+        level: 1
+  abilities:
+    intelligence: 1
+  feats:
+    - War Caster

@@ -1,0 +1,9 @@
+add:
+  meta:
+    classes:
+      artificer:
+        level: 1
+  class:
+    artificer:
+      features:
+        - Extra Attack

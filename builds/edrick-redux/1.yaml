@@ -1,0 +1,26 @@
+add:
+  meta:
+    classes:
+      artificer:
+        level: 1
+  proficiencies:
+    skills:
+      - Arcana
+      - Perception
+    gear:
+      - Simple Weapons
+      - Firearms
+      - Light Armor
+      - Medium Armor
+      - Shields
+  tools:
+    - Thieves Tools
+    - Tinkerers Tools
+    - Cooking
+  class:
+    artificer:
+      features:
+        - Magical Tinkering
+  spells:
+  - Fire Bolt
+  - Booming Blade

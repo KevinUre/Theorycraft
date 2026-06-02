@@ -1,0 +1,12 @@
+add:
+  meta:
+    classes:
+      artificer:
+        level: 1
+  class:
+    artificer:
+      infusions:
+        - Enhanced Defense
+        - Enhanced Weapon
+        - Enhanced Arcane Focus
+        - Mind Sharpener
