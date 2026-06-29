@@ -1,0 +1,25 @@
+meta:
+  name: Alagor
+  race: Human 
+  background: Soldier
+  languages:
+    - Common
+abilities:
+  strength: 16
+  dexterity: 12
+  constitution: 14 
+  intelligence: 10
+  wisdom: 15
+  charisma: 8
+proficiencies: 
+  tools:
+    - Gaming Set
+  skills:
+    - Athletics
+    - Intimidation
+    - Perception
+race:
+  - Resourceful
+feats:
+  - Savage Attacker
+  - Tough

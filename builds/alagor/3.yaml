@@ -1,0 +1,17 @@
+add:
+  meta:
+    classes:
+      cleric:
+        level: 1
+        subclass: War Domain
+  class:
+    cleric: 
+      features:
+        - War Priest
+      channelDivinity:
+        - Guided Strike
+  spells:
+    - Guiding Bolt
+    - Magic Weapon
+    - Shield of Faith
+    - Spiritual Weapon

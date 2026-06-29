@@ -1,0 +1,12 @@
+add:
+  meta:
+    classes:
+      cleric:
+        level: 1
+  class:
+    cleric:
+      features:
+        - Sear Undead
+  spells:
+    - Crusader's Mantle
+    - Spirit Guardians

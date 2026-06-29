@@ -1,0 +1,24 @@
+add:
+  meta:
+    classes:
+      bard:
+        level: 1
+  proficiencies:
+    skills:
+      - Deception
+      - Intimidation
+      - Persuasion
+    gear:
+      - Simple Weapons
+      - Light Armor
+  class:
+    bard:
+      features:
+        - Bardic Inspiration
+  spells:
+    - Vicious Mockery
+    - Message
+    - Healing Word
+    - Identify
+    - Detect Magic
+    - Disguise Self

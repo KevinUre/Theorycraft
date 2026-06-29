@@ -1,0 +1,11 @@
+add:
+  meta:
+    classes:
+      cleric:
+        level: 1
+  abilities:
+    wisdom: 1
+  feats:
+    - War Caster
+  spells:
+    - Toll the Dead

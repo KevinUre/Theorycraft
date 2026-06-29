@@ -1,0 +1,12 @@
+add:
+  meta:
+    classes:
+      cleric:
+        level: 1
+  class:
+    cleric:
+      features:
+        - Divine Strike
+  spells:
+    - Fire Shield
+    - Freedom of Movement

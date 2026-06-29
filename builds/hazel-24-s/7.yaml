@@ -1,0 +1,15 @@
+﻿add:
+  meta:
+    classes:
+      sorcerer:
+        level: 1
+  class:
+    sorcerer: 
+      features:
+        - Font of Magic
+      metamagic:
+        - Quickened
+        - Heightened
+  spells:
+    - Chromatic Orb
+    - Feather Falling

@@ -1,0 +1,9 @@
+add:
+  meta:
+    classes:
+      cleric:
+        level: 1
+  class:
+    cleric:
+      channelDivinity:
+        - War God's Blessing

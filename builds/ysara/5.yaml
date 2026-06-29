@@ -1,0 +1,12 @@
+add:
+  meta:
+    classes:
+      bard:
+        level: 1
+  spells:
+    - Hypnotic Pattern
+    - Speak with Dead
+  class:
+    bard: 
+      features:
+        - Font of Inspiration

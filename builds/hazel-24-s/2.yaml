@@ -1,0 +1,14 @@
+﻿add:
+  meta:
+    classes:
+      warlock:
+        level: 1
+  class:
+    warlock:
+      features:
+        - Magical Cunning
+      invocations:
+        - Improved Pact Weapon
+        - Eldritch Mind
+  spells:
+    - Arms of Hadar

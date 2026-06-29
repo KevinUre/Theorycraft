@@ -1,0 +1,11 @@
+﻿add:
+  meta:
+    classes:
+      warlock:
+        level: 1
+  class:
+    warlock: 
+      invocations:
+        - uuugh
+  spells:
+    - Witchbolt 

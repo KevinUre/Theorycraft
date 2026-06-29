@@ -1,0 +1,12 @@
+add:
+  meta:
+    classes:
+      bard:
+        level: 1
+  class:
+    bard:
+      features:
+        - Expertise
+        - Jack of All Trades
+  spells:
+    - Feather Fall

@@ -1,0 +1,12 @@
+add:
+  meta:
+    classes:
+      bard:
+        level: 1
+  abilities:
+    charisma: 1
+  feats:
+    - War Caster
+  spells:
+    - Mage Hand
+    - Detect Thoughts

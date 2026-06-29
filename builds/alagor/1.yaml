@@ -1,0 +1,24 @@
+add:
+  meta:
+    classes:
+      cleric:
+        level: 1
+  proficiencies:
+    skills:
+      - Insight
+      - History
+    gear:
+      - Simple Weapons
+      - Martial Weapons
+      - Light Armor
+      - Medium Armor
+      - Heavy Armor
+      - Shields
+  class:
+    cleric:
+      features:
+        - Divine Order - Protector
+  spells:
+    - Guidance
+    - Light
+    - Sacred Flame

@@ -1,0 +1,11 @@
+add:
+  meta:
+    classes:
+      bard:
+        level: 1
+  class:
+    bard: 
+      features:
+        - Countercharm
+  spells:
+    - Polymorph 

@@ -1,0 +1,21 @@
+add:
+  meta:
+    classes:
+      bard:
+        level: 1
+        subclass: College of Valor
+  proficiencies:
+    gear:
+      - Shields
+      - Marital Weapons
+      - Medium Armor
+  spells:
+    - Heat Metal
+    - Hold Person
+  class:
+    bard: 
+      features:
+        - Combat Inspiration
+remove:
+  spells:
+    - Feather Fall

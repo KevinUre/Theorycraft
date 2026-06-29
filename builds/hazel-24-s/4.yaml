@@ -1,0 +1,22 @@
+﻿add:
+  meta:
+    classes:
+      warlock:
+        level: 1
+  abilities:
+    charisma: 1
+  feats:
+    - War Caster
+    - Savage Attacker
+  spells:
+    - Green-Flame Blade
+    - Mirror Image
+  class:
+    warlock:
+      invocations:
+        - Lessons of the First Ones
+  remove:
+    class:
+      warlock:
+        invocations:
+          - Eldritch Mind

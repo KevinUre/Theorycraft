@@ -1,0 +1,10 @@
+add:
+  meta:
+    classes:
+      cleric:
+        level: 1
+  class:
+    cleric:
+      channelDivinity:
+        - Divine Spark
+        - Turn Undead
