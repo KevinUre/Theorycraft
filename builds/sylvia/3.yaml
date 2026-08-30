@@ -1,0 +1,19 @@
+add:
+  meta:
+    classes:
+      fighter:
+        level: 1
+        subclass: Battle Master
+  proficiencies:
+    skills:
+      - Athletics
+    tools:
+      - Smith's Tools
+  class:
+    fighter: 
+      features:
+        - Combat Superiority
+      maneuvers:
+        - Riposte
+        - Menacing Attack
+        - Evasive Footwork

@@ -1,0 +1,23 @@
+add:
+  meta:
+    classes:
+      fighter:
+        level: 1
+  proficiencies:
+    skills:
+      - Insight
+      - Perception
+    gear:
+      - Simple Weapons
+      - Martial Weapons
+      - Light Armor
+      - Medium Armor
+      - Heavy Armor
+      - Shields
+  class:
+    fighter:
+      features:
+        - Second Wind
+        - Weapon Mastery
+  feats:
+    - Fighting Style - Defense

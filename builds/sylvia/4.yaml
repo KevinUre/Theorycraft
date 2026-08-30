@@ -1,0 +1,9 @@
+﻿add:
+  meta:
+    classes:
+      fighter:
+        level: 1
+  abilities:
+    strength: 1
+  feats:
+    - Sentinel

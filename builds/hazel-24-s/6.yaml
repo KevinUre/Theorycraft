@@ -3,10 +3,6 @@
     classes:
       sorcerer:
         level: 1
-  proficiencies:
-    skills:
-      - Deception
-      - Religion
   class:
     sorcerer:
       features:

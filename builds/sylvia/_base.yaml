@@ -1,0 +1,28 @@
+﻿meta:
+  name: Sylvia
+  race: Human
+  background: Noble
+  languages:
+    - Common
+abilities:
+  strength: 17
+  dexterity: 8
+  constitution: 14
+  intelligence: 10
+  wisdom: 12
+  charisma: 14
+proficiencies: 
+  tools:
+    - Chess
+  skills:
+    - History
+    - Persuasion
+    - Medicine
+    - Nature
+    - Religion
+    - Arcana
+race:
+  - Resourceful
+feats:
+  - Skilled
+  - Tough

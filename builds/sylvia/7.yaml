@@ -1,0 +1,12 @@
+add:
+  meta:
+    classes:
+      fighter:
+        level: 1
+  class:
+    fighter: 
+      features:
+        - Know Your Enemy
+      maneuvers:
+        - Lunging Attack
+        - Feinting Attack

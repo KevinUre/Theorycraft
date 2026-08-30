@@ -1,0 +1,10 @@
+add:
+  meta:
+    classes:
+      fighter:
+        level: 1
+  class:
+    fighter:
+      features:
+        - Action Surge
+        - Tactical Mind
