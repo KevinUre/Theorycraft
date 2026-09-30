@@ -1,0 +1,9 @@
+add:
+  meta:
+    classes:
+      wizard:
+        level: 1
+  class:
+    wizard: 
+      features:
+        - Memorize Spell

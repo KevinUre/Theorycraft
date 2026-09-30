@@ -1,0 +1,20 @@
+add:
+  meta:
+    classes:
+      wizard:
+        level: 1
+  proficiencies:
+    skills:
+      - Arcana
+      - History
+    gear:
+      - Simple Weapons
+  class:
+    bard:
+      features:
+        - Ritual Adept
+        - Arcane Recovery
+  spells:
+    - Fire Bolt
+    - Message
+    - Minor Illusion

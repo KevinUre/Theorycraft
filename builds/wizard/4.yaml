@@ -1,0 +1,11 @@
+add:
+  meta:
+    classes:
+      wizard:
+        level: 1
+  abilities:
+    intelligence: 1
+  feats:
+    - Fey-Touched
+  spells:
+    - Light

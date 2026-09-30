@@ -1,0 +1,11 @@
+add:
+  meta:
+    classes:
+      wizard:
+        level: 1
+        subclass: Diviner
+  class:
+    wizard: 
+      features:
+        - Divination Savant
+        - Portent

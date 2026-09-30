@@ -1,0 +1,28 @@
+meta:
+  name: Unnamed Wizard
+  race: Human
+  background: Scribe
+  languages:
+    - Common
+abilities:
+  strength: 8
+  dexterity: 14
+  constitution: 14
+  intelligence: 17
+  wisdom: 12
+  charisma: 10
+proficiencies: 
+  tools:
+    - Calligrapher's Supplies
+  skills:
+    - Investigation
+    - Perception
+    - Insight
+    - Investigation
+    - History
+    - Medicine
+race:
+  - Resourceful
+feats:
+  - Skilled
+  - Tough
