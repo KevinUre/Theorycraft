@@ -1,0 +1,28 @@
+meta:
+  name: Unnamed Draco-Sorc
+  race: Human
+  background: Charlatan
+  languages:
+    - Common
+abilities:
+  strength: 8
+  dexterity: 14
+  constitution: 14
+  intelligence: 10
+  wisdom: 12
+  charisma: 17
+proficiencies: 
+  tools:
+    - Forgery Kit
+  skills:
+    - Deception
+    - Sleight of Hand
+    - Insight
+    - Investigation
+    - Perception
+    - Persuasion
+race:
+  - Resourceful
+feats:
+  - Skilled
+  - Tough

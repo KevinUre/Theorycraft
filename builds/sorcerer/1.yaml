@@ -1,20 +1,20 @@
 add:
   meta:
     classes:
-      wizard:
+      sorcerer:
         level: 1
   proficiencies:
     skills:
       - Arcana
-      - History
+      - Intimidation
     gear:
       - Simple Weapons
   class:
-    wizard:
+    sorcerer:
       features:
-        - Ritual Adept
-        - Arcane Recovery
+        - Innate Sorcery
   spells:
-    - Fire Bolt
+    - Sorcerous Burst
     - Message
     - Minor Illusion
+    - Light

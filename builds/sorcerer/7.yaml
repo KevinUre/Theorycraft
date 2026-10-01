@@ -1,0 +1,12 @@
+add:
+  meta:
+    classes:
+      sorcerer:
+        level: 1
+  class:
+    sorcerer: 
+      features:
+        - Sorcery Incarnate
+  spells:
+    - Arcane Eye
+    - Charm Monster

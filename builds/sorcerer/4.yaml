@@ -1,0 +1,13 @@
+add:
+  meta:
+    classes:
+      sorcerer:
+        level: 1
+  abilities:
+    charisma: 1
+  feats:
+    - Fey-Touched
+  spells:
+    - Acid Splash?
+    - Misty Step
+    - Flex Fey Pick (Hex?)

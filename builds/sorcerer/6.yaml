@@ -1,0 +1,9 @@
+add:
+  meta:
+    classes:
+      sorcerer:
+        level: 1
+  class:
+    sorcerer: 
+      features:
+        - Elemental Affinity (Choice)

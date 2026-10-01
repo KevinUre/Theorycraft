@@ -1,0 +1,12 @@
+add:
+  meta:
+    classes:
+      sorcerer:
+        level: 1
+  class:
+    sorcerer: 
+      features:
+        - Sorcerous Restoration
+  spells:
+    - Fear
+    - Fly

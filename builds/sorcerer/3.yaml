@@ -1,0 +1,15 @@
+add:
+  meta:
+    classes:
+      sorcerer:
+        level: 1
+        subclass: Draconic Sorcery
+  class:
+    sorcerer: 
+      features:
+        - Draconic Resilience
+  spells:
+    - Alter Self
+    - Chromatic Orb
+    - Command
+    - Dragon's Breath
